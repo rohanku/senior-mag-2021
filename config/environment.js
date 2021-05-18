@@ -24,18 +24,26 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'empress-blog',
-      description: 'Static Blog System - Built with Ember',
+      title: 'Saratoga Senior Magazine 2021',
+      description: 'A tribute to Saratoga High School\'s Class of 2021',
       coverImage: '/images/blog-cover.jpg',
 
-      navigation: [{
+      navigation: [
+      {
         label: 'Home',
         route: 'index'
-      }, {
-        label: 'Built by Chris Manson',
-        route: 'page',
-        id: 'chris-manson'
-      }]
+      },
+      {
+        label: 'Profiles',
+        route: 'tag',
+	id: 'profiles'
+      },
+      {
+        label: 'Columns',
+        route: 'tag',
+	id: 'columns'
+      },
+      ]
     },
 
     'responsive-image': {
