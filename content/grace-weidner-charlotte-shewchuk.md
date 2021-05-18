@@ -1,8 +1,8 @@
 ---
 title: All in a day’s (art)work
-image: 
+image: /images/stickers.jpg
 imageMeta:
-  attribution: 
+  attribution: Charlotte Shewchuk
   attributionLink:
 featured: true
 authors:

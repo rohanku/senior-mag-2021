@@ -1,8 +1,8 @@
 ---
 title: "Alisa Chankhunthod: Head in the clouds (literally)"
-image: 
+image: /images/plane.jpg
 imageMeta:
-  attribution: 
+  attribution: Unsplash
   attributionLink:
 featured: true
 authors:
