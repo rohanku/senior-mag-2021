@@ -6,8 +6,8 @@ imageMeta:
   attributionLink:
 featured: true
 authors:
-  - alekhya
-  - marisa
+  - marisa-kingsley
+  - alekhya-vadlakonda
 date: April 13 2021
 tags:
   - profiles

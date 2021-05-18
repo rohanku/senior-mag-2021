@@ -43,6 +43,31 @@ module.exports = function(environment) {
         route: 'tag',
 	id: 'columns'
       },
+      {
+        label: 'Photos',
+        route: 'page',
+	id: 'photos'
+      },
+      {
+        label: 'Next Ups',
+        route: 'page',
+	id: 'next-ups'
+      },
+      {
+        label: 'Farewells',
+        route: 'tag',
+	id: 'farewells'
+      },
+      {
+        label: 'College Map',
+        route: 'page',
+	id: 'college-map'
+      },
+      {
+        label: 'Senior Wills',
+        route: 'page',
+	id: 'senior-wills'
+      },
       ]
     },
 

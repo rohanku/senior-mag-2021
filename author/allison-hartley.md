@@ -1,6 +1,6 @@
 ---
-name: Nitya Marimuthu
-id: nitya
+name: Allison Hartley
+id: allison-hartley
 image: /images/chris.jpg
 cover:
 website:

@@ -1,6 +1,6 @@
 ---
-name: Marisa Kingsley
-id: marisa
+name: Alekhya Vadlakonda
+id: alekhya-vadlakonda
 image: /images/chris.jpg
 cover:
 website:

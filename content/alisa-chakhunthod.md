@@ -6,7 +6,7 @@ imageMeta:
   attributionLink:
 featured: true
 authors:
-  - nitya
+  - nitya-marimuthu
 date: April 2 2021
 tags:
   - profiles

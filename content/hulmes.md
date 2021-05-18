@@ -6,7 +6,7 @@ imageMeta:
   attributionLink:
 featured: true
 authors:
-  - allison
+  - allison-hartley
 date: March 30 2021
 tags:
   - profiles

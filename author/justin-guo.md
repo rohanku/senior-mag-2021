@@ -1,6 +1,6 @@
 ---
 name: Justin Guo
-id: justin
+id: justin-guo
 image: /images/ghost-icon.png
 cover:
 website: https://github.com/empress/empress-blog

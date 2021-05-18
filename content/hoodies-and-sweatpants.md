@@ -6,7 +6,7 @@ imageMeta:
   attributionLink:
 featured: true
 authors:
-  - justin
+  - justin-guo
 date: March 20 2021
 tags:
   - columns
