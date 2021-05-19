@@ -35,6 +35,7 @@ for filename in os.listdir(directory):
         s.pop(0)
         s.pop(0)
         s.pop(0)
+        s.pop(0)
         authors = "\n".join(map(lambda x: "  - "+x.lower().replace(" ", "-"), s.pop(0)[4:].split(" and ")))
         s.pop(0)
         s.pop(0)
