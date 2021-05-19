@@ -1,6 +1,6 @@
 ---
 title: Writing buddies for life
-image: /images/stickers.jpg
+image: /images/writers.jpg
 imageMeta:
   attribution: Samantha Yee
   attributionLink:

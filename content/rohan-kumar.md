@@ -1,5 +1,5 @@
 ---
-title: Senior recounts experience running a YouTube channel
+title: "Rohan Kumar: Becoming a STEM YouTuber"
 image: /images/cararra.jpg
 imageMeta:
   attribution: Rohan Kumar

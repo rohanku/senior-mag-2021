@@ -1,5 +1,5 @@
 ---
-title: All in a day’s (art)work
+title: "Grace Weidner and Charlotte Shewchuk: All in a day’s (art)work"
 image: /images/stickers.jpg
 imageMeta:
   attribution: Charlotte Shewchuk
