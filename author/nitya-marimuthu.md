@@ -1,7 +1,7 @@
 ---
 name: Nitya Marimuthu
 id: nitya-marimuthu
-image: /images/chris.jpg
+image: /images/nitya.jpg
 cover:
 website:
 twitter: 

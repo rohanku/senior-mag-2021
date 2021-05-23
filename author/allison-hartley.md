@@ -1,7 +1,7 @@
 ---
 name: Allison Hartley
 id: allison-hartley
-image: /images/chris.jpg
+image: /images/allison.jpg
 cover:
 website:
 twitter: 

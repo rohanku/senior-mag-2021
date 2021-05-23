@@ -1,7 +1,7 @@
 ---
 name: Oliver Ye
 id: oliver-ye
-image: /images/chris.jpg
+image: /images/oliver.jpg
 cover:
 website:
 twitter: 

@@ -6,7 +6,7 @@ imageMeta:
   attributionLink:
 featured: true
 authors:
-  - marisa-kingsley-
+  - marisa-kingsley
 date: April 13 2021
 tags:
   - columns

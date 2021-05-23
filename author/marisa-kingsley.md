@@ -1,7 +1,7 @@
 ---
 name: Marisa Kingsley
 id: marisa-kingsley
-image: /images/chris.jpg
+image: /images/marisa.jpg
 cover:
 website:
 twitter: 

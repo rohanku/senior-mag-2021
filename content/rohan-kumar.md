@@ -32,12 +32,12 @@ While many are surprised by Rohan’s teaching proficiency, he chalks it up to h
 
 For Rohan, the biggest surprise out of his YouTube journey has been how little money he made: around $200 monthly for nearly 30 hours of work. Though he doesn’t make videos for the sake of money, the amount was still shocking.
 
-	“I didn’t know it would be that little, but I will take less than minimum wage over nothing any day of the week,” Rohan said.
+“I didn’t know it would be that little, but I will take less than minimum wage over nothing any day of the week,” Rohan said.
 
-	One side benefit of the endeavor has been an improvement in his public speaking.
+One side benefit of the endeavor has been an improvement in his public speaking.
 
 “You can quite literally see the improvement just by comparing my videos from a year ago to now,” he said. 
 
-	Rohan said that he’s not naturally entertaining, but creating videos regularly, trying to appeal to an audience and finding ways to create a community has taught him how to inflect, tell jokes and present in an interesting way. 
+Rohan said that he’s not naturally entertaining, but creating videos regularly, trying to appeal to an audience and finding ways to create a community has taught him how to inflect, tell jokes and present in an interesting way. 
 
-	 “I’m now super comfortable presenting at club meetings and talking to people. Running this channel has turned me into an all-around better presenter and less awkward person,” Rohan said.
+“I’m now super comfortable presenting at club meetings and talking to people. Running this channel has turned me into an all-around better presenter and less awkward person,” Rohan said.

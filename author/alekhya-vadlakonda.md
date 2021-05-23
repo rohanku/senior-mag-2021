@@ -1,7 +1,7 @@
 ---
 name: Alekhya Vadlakonda
 id: alekhya-vadlakonda
-image: /images/chris.jpg
+image: /images/alekhya.jpg
 cover:
 website:
 twitter: 

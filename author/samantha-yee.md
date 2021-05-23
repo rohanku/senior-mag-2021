@@ -1,7 +1,7 @@
 ---
 name: Samantha Yee
 id: samantha-yee
-image: /images/chris.jpg
+image: /images/samantha.jpg
 cover:
 website:
 twitter: 
