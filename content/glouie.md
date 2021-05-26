@@ -1,8 +1,8 @@
 ---
-title: "Thank you, Mr. Louie"
-image: 
+title: "Mr. Louie, thank you for leading us through our last two years TOGAther"
+image: /images/glouie.jpg
 imageMeta:
-  attribution: 
+  attribution: Mason Wang
   attributionLink:
 featured: true
 authors:

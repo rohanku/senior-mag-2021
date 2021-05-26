@@ -1,8 +1,8 @@
 ---
-title: "Thank you, coaches"
-image: 
+title: "Coaches, thank you for (weight)lifting us up"
+image: /images/jerome.jpg
 imageMeta:
-  attribution: 
+  attribution: Now and Forever Studios
   attributionLink:
 featured: true
 authors:

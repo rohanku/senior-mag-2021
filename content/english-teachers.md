@@ -1,6 +1,6 @@
 ---
-title: "Thank you, English teachers "
-image: 
+title: "English teachers, thank you for showing us the write way for-word"
+image: /images/keys.jpg
 imageMeta:
   attribution: ""
   attributionLink:

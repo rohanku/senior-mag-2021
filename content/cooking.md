@@ -1,8 +1,8 @@
 ---
 title: "Senior finally learns to cook"
-image: 
+image: /images/airfryer.jpg
 imageMeta:
-  attribution: ""
+  attribution: "Manasi Garg"
   attributionLink:
 featured: true
 authors:

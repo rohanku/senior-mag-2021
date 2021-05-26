@@ -1,8 +1,8 @@
 ---
-title: "Thank you, math teachers"
-image: 
+title: "Math teachers, thank you for helping us find our roots"
+image: /images/yim.jpg
 imageMeta:
-  attribution: ""
+  attribution: Selina Chen
   attributionLink:
 featured: true
 authors:
@@ -31,6 +31,7 @@ the exact steps of solving trigonometric integrals or calculating
 z-scores in the next few years, no matter where our future brings us,
 we’ll remember the most important mathematical skill of all: how to
 tackle problems with a calm, clear mind.
+
 Math teachers, you’re some of the best we’ve ever had. We’d like to give
 a special shout-out to Mrs. Jennifer Mantle, who went through so much
 personally over the past four years yet still stayed strong to teach us

@@ -1,8 +1,8 @@
 ---
 title: "Top 10 pieces of advice from a second-semester senior"
-image: 
+image: /images/tips.jpg
 imageMeta:
-  attribution: 
+  attribution: Pexels
   attributionLink:
 featured: true
 authors:
