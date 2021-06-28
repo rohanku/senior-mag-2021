@@ -24,7 +24,7 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'Saratoga Senior Magazine 2021',
+      title: 'Saratoga Senior Magazine ',
       description: 'A tribute to Saratoga High School\'s Class of 2021',
       coverImage: '/images/blog-cover.jpg',
 
